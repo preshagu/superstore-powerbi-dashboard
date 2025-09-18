@@ -65,5 +65,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * LinkedIn: \[Your LinkedIn]
 * Twitter/X: \[Your Handle]
 * Email: \[Your Email]
-
-Do you want me to also make a **shorter README version (1-minute read)** for people who just want quick info without scrolling?
