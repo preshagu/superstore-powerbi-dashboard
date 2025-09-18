@@ -1,0 +1,5 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,2016-11-08,2016-11-11,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0.0,41.91
+CA-2016-152157,2016-11-08,2016-11-11,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Office Supplies,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",731.94,3,0.0,219.58
+US-2016-108504,2016-06-12,2016-06-16,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.58,5,0.45,-383.03
+US-2016-108505,2016-10-11,2016-10-18,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,Technology,Phones,Mitel 5320 IP Phone VoIP phone,407.98,2,0.2,-96.54
