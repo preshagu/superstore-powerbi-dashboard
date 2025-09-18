@@ -44,9 +44,6 @@ README.md     → Project overview
 2. Open it in **Power BI Desktop**.
 3. Interact with filters, slicers, and visuals to explore insights.
 
-📥 **Download Dashboard**: \[Google Drive / OneDrive Link] (if `.pbix` is too large for GitHub)
----
-
 ## 📈 Future Improvements
 
 * Add advanced KPIs like **profit margin %** and **discount impact**
